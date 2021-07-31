@@ -1,0 +1,5 @@
+WSUSSCN2.CAB
+https://go.microsoft.com/fwlink/?LinkID=74689
+
+Aggiornamenti
+https://msrc.microsoft.com/update-guide/en-us
